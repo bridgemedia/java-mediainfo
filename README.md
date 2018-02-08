@@ -16,6 +16,6 @@ Get video media info by directory path
  
 Результаты записываются в файл report.html, который можно скопировать в Excel, Powergold и т.д.
 
-![Screenshot2](screenshot1.png)
+![Screenshot2](screenshot2.png)
 
-[Скачать для windows](java-mediainfo-windows.zip)
+[Скачать .EXE-файл для windows](https://github.com/bridgemedia/java-mediainfo/raw/master/java-mediainfo-windows.zip)
