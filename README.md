@@ -20,6 +20,7 @@ Get video media info by directory path
 
 ## Дистрибутив
 [Скачать .EXE-файл для windows](https://github.com/bridgemedia/java-mediainfo/raw/master/java-mediainfo-windows.zip)
+ 
 [Скачать JRE 9+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## Поддержка
