@@ -18,4 +18,10 @@ Get video media info by directory path
 
 ![Screenshot2](screenshot2.png)
 
+## Дистрибутив
 [Скачать .EXE-файл для windows](https://github.com/bridgemedia/java-mediainfo/raw/master/java-mediainfo-windows.zip)
+
+## Поддержка
+* Бесплатно можете писать [на Github](https://github.com/bridgemedia/java-mediainfo/issues)
+* А на коммерческой основе можете обратиться [к нам](https://bridgemedia.ru/about/contacts/)
+* или [www.babak.ru](http://www.babak.ru)
